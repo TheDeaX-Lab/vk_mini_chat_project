@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vk_mini_chat_project/static/css/main.d9e75851.chunk.css",
+    "main.js": "/vk_mini_chat_project/static/js/main.f2f324f1.chunk.js",
+    "runtime-main.js": "/vk_mini_chat_project/static/js/runtime-main.c5d1c55d.js",
+    "static/css/2.0ca46490.chunk.css": "/vk_mini_chat_project/static/css/2.0ca46490.chunk.css",
+    "static/js/2.6419df98.chunk.js": "/vk_mini_chat_project/static/js/2.6419df98.chunk.js",
+    "index.html": "/vk_mini_chat_project/index.html",
+    "precache-manifest.7f1377a3a5503fd6de0ae7389a12b65d.js": "/vk_mini_chat_project/precache-manifest.7f1377a3a5503fd6de0ae7389a12b65d.js",
+    "service-worker.js": "/vk_mini_chat_project/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5d1c55d.js",
+    "static/css/2.0ca46490.chunk.css",
+    "static/js/2.6419df98.chunk.js",
+    "static/css/main.d9e75851.chunk.css",
+    "static/js/main.f2f324f1.chunk.js"
+  ]
+}
